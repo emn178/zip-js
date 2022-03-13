@@ -1,3 +1,1 @@
-//= require zipjs/zip
-//= require zipjs/zip-fs
-//= require zipjs/zip-ext
+//= require zipjs/zip-fs-full-es5

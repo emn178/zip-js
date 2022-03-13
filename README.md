@@ -29,12 +29,6 @@ In `application.js`, add
 //= require zip
 ```
 
-In your layout, add
-
-```HTML
-<%= zipjs_script_tag %>
-```
-
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
